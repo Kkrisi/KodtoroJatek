@@ -35,7 +35,7 @@ def Udvozles(szinkod):
 	for y in udvozles[1]:
 		udv2 += random.choice(szinkod) + y
 
-	print(f"\n\t{udv1}\n\t\t{udv2}\033[37m \n\n")
+	print(f"\n\t\t     {udv1}\n\t\t\t     {udv2}\033[37m \n\n")
 
 
 
